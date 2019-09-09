@@ -1,0 +1,21 @@
+Package: hacking
+Title: Statistical Inference for Ensuring the Robustness of Scientific Results
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Vandelay",
+           family = "Art",
+           role = c("aut", "cre"),
+           email = "theboundingtick@yahoo.com")
+Description: Hacking intervals.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/artvandelay129/hacking
+BugReports: https://github.com/artvandelay129/hacking/issues
+Imports: 
+    dplyr,
+    stringr,
+    stats,
+    purrr,
+    magrittr
+RoxygenNote: 6.1.1
